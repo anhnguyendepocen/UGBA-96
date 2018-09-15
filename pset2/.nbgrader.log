@@ -1,0 +1,73 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/mseflek/Dropbox/UGBA96 repo/UGBA-96-Staff - PRIVATE/pset2
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1): No such file or directory: wms_logo.png
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1) 9.32ms referer=http://localhost:8888/notebooks/pset2.ipynb
+[NotebookApp | INFO] Kernel started: 7937f468-fd32-482a-801d-128406a15c33
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7937f468-fd32-482a-801d-128406a15c33
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 7937f468-fd32-482a-801d-128406a15c33:5cd15e2d60014ff38a5394a956f4e8fe
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/sessions?_=1536951272536 (::1) 1.11ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/terminals?_=1536951272537 (::1) 0.85ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/sessions?_=1536951272538 (::1) 1.69ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] Forbidden
+[NotebookApp | WARNING] 403 GET /api/terminals?_=1536951272539 (::1) 1.24ms referer=http://localhost:8888/tree
+[NotebookApp | INFO] 302 GET /notebooks/pset2.ipynb (::1) 0.80ms
+[NotebookApp | INFO] 302 POST /login?next=%2Fnotebooks%2Fpset2.ipynb (::1) 1.14ms
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1): No such file or directory: wms_logo.png
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1) 1.79ms referer=http://localhost:8888/notebooks/pset2.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7937f468-fd32-482a-801d-128406a15c33
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 7937f468-fd32-482a-801d-128406a15c33:cf725405c2a445be86c8d8e6cfa74478
+[NotebookApp | INFO] Kernel restarted: 7937f468-fd32-482a-801d-128406a15c33
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7937f468-fd32-482a-801d-128406a15c33
+[NotebookApp | INFO] Restoring connection for 7937f468-fd32-482a-801d-128406a15c33:cf725405c2a445be86c8d8e6cfa74478
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | INFO] Starting buffering for 7937f468-fd32-482a-801d-128406a15c33:cf725405c2a445be86c8d8e6cfa74478
+[NotebookApp | INFO] Kernel shutdown: 7937f468-fd32-482a-801d-128406a15c33
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/mseflek/Dropbox/UGBA96 repo/UGBA-96-Staff - PRIVATE/pset2
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | WARNING] Notebook pset2.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1): No such file or directory: wms_logo.png
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1) 9.31ms referer=http://localhost:8888/notebooks/pset2.ipynb
+[NotebookApp | INFO] Kernel started: 46030e86-d9a1-43c2-aa98-d509a6f859ae
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 46030e86-d9a1-43c2-aa98-d509a6f859ae
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1): No such file or directory: wms_logo.png
+[NotebookApp | WARNING] 404 GET /notebooks/wms_logo.png (::1) 4.76ms referer=http://localhost:8888/notebooks/pset2.ipynb
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | INFO] Saving file at /pset2.ipynb
+[NotebookApp | INFO] Starting buffering for 46030e86-d9a1-43c2-aa98-d509a6f859ae:e4c9604b37864f9e80deec55fa635a47
+[NotebookApp | INFO] Kernel shutdown: 46030e86-d9a1-43c2-aa98-d509a6f859ae
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 0 kernels
