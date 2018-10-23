@@ -1,0 +1,15 @@
+{
+  "name": "Pset 6",
+  "endpoint": "cal/ugba96/fa18/pset6",
+  "src": [
+    "pset6.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
